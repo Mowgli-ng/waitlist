@@ -1,0 +1,8 @@
+:root {
+    --mw-green:#40b040;
+    --mw-yellow: #ffcb0a;
+    --mw-gray: #b3b3b3;
+    --bs-green: #40b040 !important;
+    --bs-success: #40b040 !important;
+    --bs-success-rgb: 64, 176, 64;
+}
