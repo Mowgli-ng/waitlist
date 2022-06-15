@@ -51,7 +51,7 @@
                         </div>
 
                         <div class="form mt-4 w-100">
-                            <div class="row" style="overflow-x:hidden">
+                            <div class="row">
                                 <div class="col-12 col-sm-6">
                                     <input class="rounded btn w-100 p-3 me-2 text-start shadow mt-3 form-control"
                                         placeholder="Full Name" /><br />
