@@ -142,7 +142,7 @@ export default {
     position:0;
     bottom: 0;
 }
-div, button, input {
-    font-size:12px
+button, input {
+    /* font-size:12px */
 }
 </style>
