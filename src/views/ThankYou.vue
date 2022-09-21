@@ -61,7 +61,7 @@ export default {
 
 <style lang="less" scoped>
 .body {
-    background-image: url("../../public/images/sit-woman.png    ");
+    // background-image: url("../../public/images/sface.png    ");
     background-size: contain;
     background-repeat: no-repeat;
 }
