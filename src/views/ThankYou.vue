@@ -47,13 +47,13 @@ export default {
     },
     data(){
         return {
-            url:'https://www.mowgli.ng/anticipate',
-            text:"Mowgli has just opened its Waitlist, we know you're anticipating./n why not join the train???"
+            url:'https://go.softgreen.ng',
+            text:"SoftgreenGO has just opened its Waitlist, we know you're anticipating./n why not join the train???"
         }
     },
     methods:{
         joinWP() {
-            window.location.href = "https://wa.me/2349140714128?text=Hello, I'm ------- and would like to join the waitlist"
+            window.location.href = "https://wa.me/2349130714128?text=Hello, I'm ------- and would like to join the waitlist"
         }
     }
 }
