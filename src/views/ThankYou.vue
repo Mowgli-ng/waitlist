@@ -7,7 +7,7 @@
                         Thank You
                     </div>
                     <div class="--text-muted fs-6 fw-normal">
-                        Check your mail promotions for our message.
+                        Check your mailbox for our message.
                     </div>
                     <button class="btn w-100 me-2 btn-success text-white rounded mt-4 p-3" @click="joinWP">
                         <span class="fs-6">
