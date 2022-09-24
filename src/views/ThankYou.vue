@@ -7,11 +7,11 @@
                         Thank You
                     </div>
                     <div class="--text-muted fs-6 fw-normal">
-                        we've got your wait...
+                        Check your mail promotions for our message.
                     </div>
                     <button class="btn w-100 me-2 btn-success text-white rounded mt-4 p-3" @click="joinWP">
                         <span class="fs-6">
-                            Join the Whatsapp Waitlist
+                            Proceed to Whatsapp Waitlist
                         </span>
                     </button>
                 </div>
@@ -48,7 +48,7 @@ export default {
     data(){
         return {
             url:'https://go.softgreen.ng',
-            text:"SoftgreenGO has just opened its Waitlist, we know you're anticipating./n why not join the train???"
+            text:"SoftgreenGO has just opened its Waitlist, we know you're anticipating.why not join the train???"
         }
     },
     methods:{
