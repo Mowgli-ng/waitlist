@@ -1,12 +1,12 @@
 <template>
-    <div class="mw-h-100 d-flex justify-content-center align-items-center body">
+    <div class="mw-h-100 d-flex justify-content-center align-items-center body p-3">
         <div>
-            <div class="shadow p-5 btn --bg-success bg-gradient">
+            <div class="shadow p-4 btn --bg-success bg-gradient">
                 <div class="--text-white" style="line-height:35px">
                     <div class="fs-1 museo">
                         Thank You
                     </div>
-                    <div class="--text-muted fs-6 fw-normal">
+                    <div class="--text-muted small fw-normal">
                         Check your mailbox for our message.
                     </div>
                     <button class="btn w-100 me-2 btn-success text-white rounded mt-4 p-3" @click="joinWP">
