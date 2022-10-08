@@ -1,14 +1,13 @@
 
-// Bootstrap Overlay
+/* // Bootstrap Overlay */
 .fs-1, .fs-2, .fs-3 {
     font-family: museo !important
 }
 
 .btn{
-    .rounded-20 !important;
-    border:0px
-    // font-family: museo;
-    // .font-2;
+    border-radius: 15pX    !important;
+    border:0px;
+    font-family: museo;
    
 }
 .btn-success {
@@ -33,17 +32,14 @@
     color: lightgray;
 }
 .rounded-20{
-    border-radius: 20px;
-    @media (max-width:768px) {
-        border-radius: 15px;
-    }
+    border-radius: 15px;
 }
 .mw-h-100 {
     min-height: 100vh;
     max-height: 100vh;
   }
 
-// Fonts
+/* // Fonts */
 
 .muli {
     font-family: muli;
@@ -55,9 +51,9 @@
     font-family: museo;
 }
 
-// Tags
+/* // Tags */
 
 div, span, .__input {
-    // .muli
+    /* // .muli */
 }
-// display: -webkit-flex
+/* // display: -webkit-flex */

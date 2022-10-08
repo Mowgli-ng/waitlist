@@ -7,7 +7,7 @@ import Toaster from "@meforma/vue-toaster"
 // Styles
 import "./themes/bootstrap/css/bootstrap.css"
 import "./themes/variables.css"
-import "./themes/style.less"
+import "./themes/style.css"
 import "./themes/fonts.css"
 import 'vue-loading-overlay/dist/vue-loading.css';
 
