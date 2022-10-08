@@ -7,8 +7,6 @@
 .btn{
     border-radius: 15pX    !important;
     border:0px;
-    font-family: museo;
-   
 }
 .btn-success {
     background-color: var(--mw-green) !important;
